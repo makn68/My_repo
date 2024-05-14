@@ -2,8 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
-HealthMate: Your Personal AI Health Companion
+# HealthMate: Your Personal AI Health Companion
 ## Summary
 My motivation stems from a desire to empower individuals to take control of their health by leveraging AI to provide personalized health management solutions. 
 This is just and idea where  AI CAN be used.
